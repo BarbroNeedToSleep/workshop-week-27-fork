@@ -1,6 +1,5 @@
 package se.lexicon.model;
 
-
 import java.util.UUID;
 
 /**
@@ -8,7 +7,8 @@ import java.util.UUID;
  * to manage book-related information and operations.
  */
 public class Book {
-    // todo: needs completion
+
+    //fix for branch push
     private Person borrower;
 
     private String Id;

@@ -5,10 +5,6 @@ import se.lexicon.model.Person;
 
 public class App {
     public static void main(String[] args) {
-        // todo: needs completion
-        // Initialize and display Book & Person instances
-        // Simulate borrowing a book
-        // Simulate returning a book
 
         Person lina = new Person("Lina", "Katt" );
         Person alfred = new Person("Alfred", "Katt");
